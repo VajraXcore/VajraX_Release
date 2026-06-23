@@ -125,7 +125,7 @@ What you calculate in VajraX stays in VajraX.
 | Android Version | 8.0+ (API 26) |
 | Storage | 3 MB |
 | Root | Not required |
-| Internet | Not required for 22/29 tools |
+| Internet | Not required for 22/36 tools |
 | Permissions | INTERNET, ACCESS_NETWORK_STATE only |
 
 ---
@@ -134,7 +134,7 @@ What you calculate in VajraX stays in VajraX.
 
 | Version | Status | Highlights |
 |---|---|---|
-| v1.0.0 | ✅ Released | 29 tools, full offline suite |
+| v1.0.0 | ✅ Released | 36 tools, full offline suite |
 | v1.1.0 | 🔄 Planned | Community-requested features |
 | v2.0.0 | 🔄 Planned | VajraX Platform — expanded suite |
 
