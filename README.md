@@ -125,7 +125,7 @@ What you calculate in VajraX stays in VajraX.
 | Android Version | 8.0+ (API 26) |
 | Storage | 3 MB |
 | Root | Not required |
-| Internet | Not required for 22/36 tools |
+| Internet | Not required for 29/36 tools |
 | Permissions | INTERNET, ACCESS_NETWORK_STATE only |
 
 ---
