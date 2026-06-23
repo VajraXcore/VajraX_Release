@@ -50,7 +50,7 @@ precision, power, and reliability in every tool.
 
 ## ✨ Features
 
-### 6 Modules — 29 Professional Tools
+### 6 Modules — 36 Professional Tools
 
 **🏗️ ARCHITECT**
 - Subnet Calculator & Hub
